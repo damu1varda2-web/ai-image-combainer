@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Composer",
+  "description": "A Generative AI-based image composition tool that allows users to upload multiple image elements—a person, background, object, and accessory—and then automatically generate a realistic or stylized composite image using AI.",
+  "requestFramePermissions": []
+}
